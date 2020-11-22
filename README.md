@@ -1,1 +1,0 @@
-# Tutorial_Sistemas_Operacionais
